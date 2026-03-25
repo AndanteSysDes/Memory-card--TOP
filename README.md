@@ -20,12 +20,14 @@ Since the main goal is to refresh my memory on how to write React code with Type
  - Card shuffle algorithm
 
 ## Demo
-I'll add Demo page and Screenshot later.
+[Demo page](https://memory-card-top-pi.vercel.app/)
+
+<img width="1509" height="1578" alt="スクリーンショット 2026-03-25 105100" src="https://github.com/user-attachments/assets/f68917a9-2b76-4417-b901-e0a61b2839f9" />
+
 
 ## Highlights
  - By using useReducer, I improved the readability of each component.
  - User knows whether game started or finished by START/STOP button, text message and result message alert.
- -  
 
 ## Features to be added
 - After drawing all cards, all cards are refreshed, enabling a design that allows players to aim for higher scores.
