@@ -1,4 +1,4 @@
-# CV Generator
+# Memory card game
 
 It is a simple Memory game using React and Typescript. User can click every card without clicking the same one twice.
 
