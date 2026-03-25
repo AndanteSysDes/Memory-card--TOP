@@ -1,0 +1,16 @@
+.score{
+  text-align: end;
+}
+
+.score p {
+  margin: 0;
+  color:blueviolet;
+  font-size: 16px;
+  display: inline;
+}
+
+.score .point {
+  margin-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}

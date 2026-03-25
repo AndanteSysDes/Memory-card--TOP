@@ -1,0 +1,8 @@
+.card-field {
+  /* grid container */
+  padding: 20px 20px 60px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  justify-content: center;
+}
